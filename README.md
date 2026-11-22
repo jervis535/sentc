@@ -14,12 +14,12 @@ pip install -r requirements.txt
 ```
 
 ## setup tabpfn token
-tabpfn requires a token, said token can be acquired from https://docs.priorlabs.ai/quickstart after getting the token make a directory named .streamlit and make a file to secrets.toml with the following line:
+tabpfn requires a token, said token can be acquired from https://docs.priorlabs.ai/quickstart after getting the token make a directory named .streamlit and make a file named secrets.toml with the following line:
 ```bash
 TABPFN_TOKEN = "INSERT YOUR TOKEN HERE"
 ```
 
-## dependencies
+## models and other files
 pre-trained models, label encoder, etc can be accessed in https://drive.google.com/drive/u/0/folders/1J8p8RTHsrZaQXi_frxUd88vRDEDTvRYU 
 
 make sure to put them in the same directory as app.py
