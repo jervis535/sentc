@@ -1,0 +1,15 @@
+streamlit
+joblib
+numpy
+scikit-learn
+torch
+tabm
+tabpfn
+pytabkit
+skorch
+pandas
+nltk
+faiss-cpu
+rich
+cloudpickle
+# plus the package that provides TabR_S_D_Classifier (needed to unpickle tabr.pkl)

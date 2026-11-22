@@ -1,0 +1,9 @@
+.streamlit/
+.venv/
+.vscode/
+label_encoder.pkl
+svd.pkl
+tabm.pth
+tabpfn.pkl
+tabr.pkl
+tfidf.pkl
